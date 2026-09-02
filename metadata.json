@@ -1,0 +1,6 @@
+{
+  "name": "Página de Vendas de Ebook",
+  "description": "Página de vendas moderna e de alta conversão para infoprodutos e ebooks, com visualizador 3D, módulos detalhados, depoimentos e checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
